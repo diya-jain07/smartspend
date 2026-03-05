@@ -1,5 +1,6 @@
 {
   "name": "budget-risk-predictor-frontend",
+  "homepage": "https://diya-jain07.github.io/smartspend",
   "private": true,
   "version": "0.1.0",
   "type": "module",
